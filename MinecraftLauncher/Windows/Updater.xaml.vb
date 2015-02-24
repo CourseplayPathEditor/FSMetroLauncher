@@ -4,7 +4,7 @@ Imports System.Net
 Class Updater
 
     Private WithEvents wc As New WebClient
-    Dim Installer As String = IO.Path.Combine(Applicationcache.FullName, "McMetroLauncher.msi")
+    Dim Installer As String = IO.Path.Combine(Applicationcache.FullName, "FSMetroLauncher.msi")
 
     Private ReadOnly Property AssemblyVersion As String
         Get
@@ -40,7 +40,7 @@ Class Updater
             If IO.Directory.Exists(IO.Path.GetDirectoryName(Installer)) = False Then
                 IO.Directory.CreateDirectory(IO.Path.GetDirectoryName(Installer))
             End If
-            wc.DownloadFileAsync(New Uri("http://patzleiner.net/download/McMetroLauncher.msi"), Installer)
+            wc.DownloadFileAsync(New Uri("http://patzleiner.net/download/FSMetroLauncher.msi"), Installer)
             UpdaterViewModel.Instance.installerdownloading = True
         End If
     End Sub

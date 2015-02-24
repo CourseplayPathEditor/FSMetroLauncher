@@ -58,7 +58,7 @@
     <System:String x:Key="ProfileEditor">Chỉnh sửa thông tin cá nhân</System:String>
     <System:String x:Key="MinecraftForge">Minecraft Forge</System:String>
     <System:String x:Key="LiteLoader">LiteLoader</System:String>
-    <System:String x:Key="McMetroLauncher">McMetroLauncher</System:String>
+    <System:String x:Key="FSMetroLauncher">FSMetroLauncher</System:String>
     <System:String x:Key="ServerEditor">Chỉnh sửa máy chủ</System:String>
 
     <!-- SplashScreen -->
@@ -144,8 +144,8 @@
     <System:String x:Key="LiteLoaderInstructionsManualText2">Nếu muốn kết nối LiteLoader và Minecraft Forge, chọn phiên bản Forge từ &quot;Extend from:&quot; trong menu kéo xuống (Bạn phải cài Forge trước). Sau đó bạn có thể đổi tên Tài khoản .Và ấn &quot;OK&quot; LiteLoader sẽ được cài. Đợi một lúc để tải và cài đặt, tin nhắn sẽ hiện lên, bạn đã cài thành công. Một mục mới sẵn sàng cho bạn cài đặt trong mục &quot;Mods&quot;. Bạn có thể có nhiều mục LiteLoader trong Chỉnh sửa tài khoản.</System:String>
 
     <!-- Exception -->
-    <System:String x:Key="ExceptionTitle">McMetroLauncher Lỗi</System:String>
-    <System:String x:Key="ExceptionTitleWindow">McMetroLauncher gặp vấn đề và cần đóng. Xin lỗi về sự cố này.</System:String>
+    <System:String x:Key="ExceptionTitle">FSMetroLauncher Lỗi</System:String>
+    <System:String x:Key="ExceptionTitleWindow">FSMetroLauncher gặp vấn đề và cần đóng. Xin lỗi về sự cố này.</System:String>
     <System:String x:Key="ExceptionText">Chúng tôi sẽ tạo một bản báo lỗi , chúng tôi sẽ xử lý sớm nhất có thể .</System:String>
     <System:String x:Key="ExceptionNote">Chúng tôi rất cảm ơn nếu bạn mô tả về lỗi (không bắt buộc):</System:String>
     <System:String x:Key="Exception">Lỗi</System:String>

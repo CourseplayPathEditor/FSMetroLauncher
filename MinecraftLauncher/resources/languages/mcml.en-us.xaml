@@ -58,7 +58,7 @@
     <System:String x:Key="ProfileEditor">Profile Editor</System:String>
     <System:String x:Key="MinecraftForge">Minecraft Forge</System:String>
     <System:String x:Key="LiteLoader">LiteLoader</System:String>
-    <System:String x:Key="McMetroLauncher">McMetroLauncher</System:String>
+    <System:String x:Key="FSMetroLauncher">FSMetroLauncher</System:String>
     <System:String x:Key="ServerEditor">Server Editor</System:String>
 
     <!-- SplashScreen -->
@@ -144,8 +144,8 @@
     <System:String x:Key="LiteLoaderInstructionsManualText2">If you want to chain LiteLoader to Minecraft Forge, select a Forge Version from the &quot;Extend from:&quot; dropdown menu (You have to install Forge first). After that you can change the profile name .Then click &quot;OK&quot; and LiteLoader is installing. After it downloaded a few files and finished installing, a message appears, that LiteLoader has been successfully installed. The new profil has been created and you can now install Mods from the Tab &quot;Mods&quot;. You can also select LiteLoader from another profile in the Profile Editor.</System:String>
 
     <!-- Exception -->
-    <System:String x:Key="ExceptionTitle">McMetroLauncher Error</System:String>
-    <System:String x:Key="ExceptionTitleWindow">McMetroLauncher has encountered a problem and needs to close. We are sorry for the inconvenience.</System:String>
+    <System:String x:Key="ExceptionTitle">FSMetroLauncher Error</System:String>
+    <System:String x:Key="ExceptionTitleWindow">FSMetroLauncher has encountered a problem and needs to close. We are sorry for the inconvenience.</System:String>
     <System:String x:Key="ExceptionText">We have created an error report that you can send to us. We will treat this error as confidential and anonymous.</System:String>
     <System:String x:Key="ExceptionNote">To help us diagnose the cause of this error and improve the software, you can write down a note (optional):</System:String>
     <System:String x:Key="Exception">Error</System:String>

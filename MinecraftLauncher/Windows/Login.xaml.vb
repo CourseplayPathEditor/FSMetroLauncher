@@ -1,5 +1,5 @@
-﻿Imports McMetroLauncher.JBou.Authentication
-Imports McMetroLauncher.JBou.Authentication.Session
+﻿Imports FSMetroLauncher.JBou.Authentication
+Imports FSMetroLauncher.JBou.Authentication.Session
 Imports System.Runtime.ExceptionServices
 Imports MahApps.Metro.Controls.Dialogs
 Imports MahApps.Metro

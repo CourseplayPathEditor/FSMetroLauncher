@@ -3,7 +3,7 @@
                       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                       xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
-                      xmlns:local="clr-namespace:McMetroLauncher"
+                      xmlns:local="clr-namespace:FSMetroLauncher"
                       Title="{StaticResource JavaPathNotFound}"
                       Width="500" SizeToContent="Height"
                       ResizeMode="NoResize" 

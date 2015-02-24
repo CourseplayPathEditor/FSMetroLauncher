@@ -7,7 +7,7 @@ Imports Ookii.Dialogs.Wpf
 Imports MahApps.Metro
 Imports MahApps.Metro.Controls
 Imports MahApps.Metro.Controls.Dialogs
-Imports McMetroLauncher.Profiles
+Imports FSMetroLauncher.Profiles
 
 Public Class ProfileEditor
     Private loadedprofile As String

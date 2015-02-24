@@ -1,6 +1,6 @@
 ﻿Imports MahApps.Metro
 Imports System.Windows.Media
-Imports McMetroLauncher.Models
+Imports FSMetroLauncher.Models
 
 Public Class AccentColorMenuData
     Public Property Name() As String

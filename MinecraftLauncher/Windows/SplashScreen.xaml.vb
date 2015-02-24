@@ -9,8 +9,8 @@ Imports MahApps.Metro.Controls.Dialogs
 Imports System
 Imports System.Reflection
 Imports System.Windows.Threading
-Imports McMetroLauncher.JBou.Authentication.Session
-Imports McMetroLauncher.JBou.Authentication
+Imports FSMetroLauncher.JBou.Authentication.Session
+Imports FSMetroLauncher.JBou.Authentication
 Imports System.Collections.Specialized
 Imports System.Web
 Imports Exceptionless

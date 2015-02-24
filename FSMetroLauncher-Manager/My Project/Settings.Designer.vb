@@ -62,9 +62,9 @@ Namespace My
     Friend Module MySettingsProperty
 
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")> _
-        Friend ReadOnly Property Settings() As Global.FSMetroLauncher.MySettings
+        Friend ReadOnly Property Settings() As Global.FSMetroLauncher_Manager.MySettings
             Get
-                Return Global.FSMetroLauncher.MySettings.Default
+                Return Global.FSMetroLauncher_Manager.MySettings.Default
             End Get
         End Property
     End Module

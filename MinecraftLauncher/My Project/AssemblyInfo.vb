@@ -11,10 +11,10 @@ Imports System.Windows
 
 ' Die Werte der Assemblyattribute überprüfen
 
-<Assembly: AssemblyTitle("McMetroLauncher")> 
+<Assembly: AssemblyTitle("FSMetroLauncher")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("McMetroLauncher")> 
+<Assembly: AssemblyProduct("FSMetroLauncher")> 
 <Assembly: AssemblyCopyright("© 2013-2015 JBou")> 
 <Assembly: AssemblyTrademark("")> 
 <Assembly: ComVisible(false)>
