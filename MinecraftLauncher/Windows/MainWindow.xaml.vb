@@ -26,15 +26,15 @@ Imports System.ComponentModel
 Imports System.Windows.Media
 Imports System
 Imports System.Windows.Markup
-Imports FSMetroLauncher.Models
+Imports McMetroLauncher.Models
 Imports System.Runtime.ExceptionServices
 Imports System.Text
 Imports System.Resources
-Imports FSMetroLauncher.JBou.Authentication
-Imports FSMetroLauncher.JBou.Authentication.Session
+Imports McMetroLauncher.JBou.Authentication
+Imports McMetroLauncher.JBou.Authentication.Session
 Imports System.Collections.ObjectModel
 Imports System.Runtime.CompilerServices
-Imports FSMetroLauncher.Forge
+Imports McMetroLauncher.Forge
 
 #End Region
 

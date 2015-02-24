@@ -5,7 +5,7 @@ Imports MahApps.Metro
 Imports System.IO
 Imports Newtonsoft.Json
 Imports Newtonsoft.Json.Linq
-Imports FSMetroLauncher.Forge
+Imports McMetroLauncher.Forge
 
 Class Forge_installer
     WithEvents wc As New WebClient

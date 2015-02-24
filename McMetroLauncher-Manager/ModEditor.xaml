@@ -1,5 +1,5 @@
 ﻿<Controls:MetroWindow  x:Class="ModEditor"
-    xmlns:local="clr-namespace:FSMetroLauncher_Manager"
+    xmlns:local="clr-namespace:McMetroLauncher_Manager"
     xmlns:metro="http://schemas.codeplex.com/elysium"
     xmlns:params="http://schemas.codeplex.com/elysium/params"
     xmlns:syncfusion="http://schemas.syncfusion.com/wpf"

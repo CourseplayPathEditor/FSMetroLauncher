@@ -1,5 +1,5 @@
 ﻿<Controls:MetroWindow
-    xmlns:local="clr-namespace:FSMetroLauncher_Manager"
+    xmlns:local="clr-namespace:McMetroLauncher_Manager"
     xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
     xmlns:metro="http://schemas.codeplex.com/elysium"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"

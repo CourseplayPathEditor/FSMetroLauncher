@@ -5,7 +5,7 @@ Imports Microsoft.Win32
 Imports Newtonsoft.Json.Linq
 Imports Newtonsoft.Json
 Imports System.Windows.Media
-Imports FSMetroLauncher.JBou.Authentication
+Imports McMetroLauncher.JBou.Authentication
 Imports MahApps.Metro
 Imports System
 
@@ -182,7 +182,7 @@ Public Module GlobalInfos
     Public Github As String = "https://github.com/JBou/McMetroLauncher"
     Public Appdata As New DirectoryInfo(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData))
     Public mcpfad As New DirectoryInfo(Path.Combine(Appdata.FullName, ".minecraft"))
-    Public Applicationdata As New DirectoryInfo(Path.Combine(Appdata.FullName, "FSMetroLauncher"))
+    Public Applicationdata As New DirectoryInfo(Path.Combine(Appdata.FullName, "McMetroLauncher"))
     Public Applicationcache As New DirectoryInfo(IO.Path.Combine(Applicationdata.FullName, "cache"))
     Public cachefolder As New DirectoryInfo(Path.Combine(mcpfad.FullName, "cache"))
     Public versionsfolder As New DirectoryInfo(Path.Combine(mcpfad.FullName, "versions"))
@@ -241,8 +241,8 @@ Public Module GlobalInfos
     Public ReadOnly YoutubeVideoRegex As Regex = New Regex("youtu(?:\.be|be\.com)/(?:.*v(?:/|=)|(?:.*/)?)([a-zA-Z0-9-_]+)", RegexOptions.IgnoreCase)
     Public Versionsurl As String = "http://s3.amazonaws.com/Minecraft.Download/versions/versions.json"
     Public modfileurl As String = Website & "download/modlist.json"
-    Public versionurl As String = Website & "fsmetrolauncher/version.txt"
-    Public changelogurl As String = Website & "fsmetrolauncher/changelog.txt"
+    Public versionurl As String = Website & "mcmetrolauncher/version.txt"
+    Public changelogurl As String = Website & "mcmetrolauncher/changelog.txt"
     Public Forgeurl As String = "http://files.minecraftforge.net/maven/net/minecraftforge/forge/json"
     Public Legacyforgeurl As String = "http://files.minecraftforge.net/minecraftforge/json2"
     Public startedversions As IList(Of String) = New List(Of String)

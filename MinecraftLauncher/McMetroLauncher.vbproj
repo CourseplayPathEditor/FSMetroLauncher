@@ -7,8 +7,8 @@
     <ProjectGuid>{D9B5CFB9-BB76-4842-9D76-F55AFEDC4EB8}</ProjectGuid>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>FSMetroLauncher</RootNamespace>
-    <AssemblyName>FSMetroLauncher</AssemblyName>
+    <RootNamespace>McMetroLauncher</RootNamespace>
+    <AssemblyName>McMetroLauncher</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <MyType>Custom</MyType>
     <IsWebBootstrapper>true</IsWebBootstrapper>
@@ -39,7 +39,7 @@
     <DefineTrace>true</DefineTrace>
     <IncrementalBuild>true</IncrementalBuild>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>FSMetroLauncher.xml</DocumentationFile>
+    <DocumentationFile>McMetroLauncher.xml</DocumentationFile>
     <NoWarn>42314</NoWarn>
     <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
     <Prefer32Bit>true</Prefer32Bit>
@@ -53,7 +53,7 @@
     <IncrementalBuild>false</IncrementalBuild>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>FSMetroLauncher.xml</DocumentationFile>
+    <DocumentationFile>McMetroLauncher.xml</DocumentationFile>
     <NoWarn>42314</NoWarn>
     <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
     <Prefer32Bit>true</Prefer32Bit>

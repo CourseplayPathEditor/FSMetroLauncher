@@ -2,7 +2,7 @@
 Imports System.Net
 Imports Newtonsoft.Json
 Imports Newtonsoft.Json.Linq
-Imports FSMetroLauncher.Forge
+Imports McMetroLauncher.Forge
 Imports System.Runtime.ExceptionServices
 
 Public Class MinecraftDownloadManager

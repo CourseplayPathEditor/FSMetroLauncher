@@ -1,6 +1,6 @@
 ﻿<Controls:MetroWindow x:Class="Updater"
                       Style="{StaticResource MetroWindow}"
-                      xmlns:local="clr-namespace:FSMetroLauncher"
+                      xmlns:local="clr-namespace:McMetroLauncher"
                       xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
                       xmlns:awe="clr-namespace:Awesomium.Windows.Controls;assembly=Awesomium.Windows.Controls"
                       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
