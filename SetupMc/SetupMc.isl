@@ -2641,7 +2641,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>UGamers</td><td>0</td><td/><td>-920446144</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>UGamers</td><td>0</td><td/><td>-920432883</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>-920409312</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>-920409312</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_OS</td><td>1033</td><td>The operating system is not adequate for running [ProductName].</td><td>0</td><td/><td>-920409312</td></row>
@@ -3743,10 +3743,10 @@
 		<row><td>IDS__TargetReq_DESC_PROCESSOR</td><td>1033</td><td>The processor is not adequate for running [ProductName].</td><td>0</td><td/><td>-920409312</td></row>
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>-920409312</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>-920409312</td></row>
-		<row><td>ID_STRING1</td><td>1033</td><td>http://www.UGamers.eu</td><td>0</td><td/><td>-920442548</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>UGamers</td><td>0</td><td/><td>-920446144</td></row>
+		<row><td>ID_STRING1</td><td>1033</td><td>http://www.UGamers.com</td><td>0</td><td/><td>-920432883</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>UGamers</td><td>0</td><td/><td>-920432883</td></row>
 		<row><td>ID_STRING3</td><td>1033</td><td>Product Support Department</td><td>0</td><td/><td>-920434388</td></row>
-		<row><td>ID_STRING4</td><td>1033</td><td>http://www.minecraft.UGamers.eu</td><td>0</td><td/><td>-920450740</td></row>
+		<row><td>ID_STRING4</td><td>1033</td><td>http://www.minecraft.UGamers.eu</td><td>0</td><td/><td>-920432883</td></row>
 		<row><td>ID_STRING5</td><td>1033</td><td>http://www.minecraft.UGamers.eu/updates</td><td>0</td><td/><td>-920403636</td></row>
 		<row><td>ID_STRING6</td><td>1033</td><td>Thank you for using McMetroLauncher</td><td>0</td><td/><td>-920434324</td></row>
 		<row><td>ID_STRING7</td><td>1033</td><td>Launch |Built</td><td>0</td><td/><td>-920407476</td></row>
@@ -3973,8 +3973,8 @@
 		<col def="S0">Value</col>
 		<row><td>ActiveLanguage</td><td>1033</td></row>
 		<row><td>Comments</td><td/></row>
-		<row><td>CurrentMedia</td><td dt:dt="bin.base64" md5="de9f554a3bc05c12be9c31b998217995">
-UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
+		<row><td>CurrentMedia</td><td dt:dt="bin.base64" md5="a4f66fafb30885f14d732b73e196bba0">
+RABWAEQALQA1AAEARQB4AHAAcgBlAHMAcwA=
 			</td></row>
 		<row><td>DefaultProductConfiguration</td><td>Express</td></row>
 		<row><td>EnableSwidtag</td><td>1</td></row>
@@ -3991,7 +3991,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>ISTheme</td><td>InstallShield Blue.theme</td></row>
 		<row><td>ISUSLock</td><td>{38BFF87C-8CA5-454A-9A1C-E40077304073}</td></row>
 		<row><td>ISUSSignature</td><td>{38C9A23A-4E22-4A30-A772-42728839F344}</td></row>
-		<row><td>ISVisitedViews</td><td>viewAssistant,viewAppV,viewProject,viewRealSetupDesign,viewSetupDesign,viewSetupTypes,viewUpgradePaths,viewAppFiles,viewFeatureFiles,viewObjects,viewDependencies,viewShortcuts</td></row>
+		<row><td>ISVisitedViews</td><td>viewAssistant,viewAppV,viewProject,viewRealSetupDesign,viewSetupDesign,viewSetupTypes,viewUpgradePaths,viewAppFiles,viewFeatureFiles,viewObjects,viewDependencies,viewShortcuts,viewISToday,viewRelease,viewSystemSearch,viewInstallScriptStd,viewCustomActions,viewSupportFiles</td></row>
 		<row><td>Limited</td><td>1</td></row>
 		<row><td>LockPermissionMode</td><td>1</td></row>
 		<row><td>MsiExecCmdLineOptions</td><td/></row>

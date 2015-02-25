@@ -17,7 +17,7 @@ Module GlobalInfos
     Public Moditem As Modifications.Mod
     Public extensions As String() = {"jar", "zip", "litemod"}
     Public types As String() = {"forge", "liteloader"}
-    Public languages As String() = {"en", "de"}
+    Public languages As String() = {"en", "de", "es"}
 End Module
 
 Public Class Manager

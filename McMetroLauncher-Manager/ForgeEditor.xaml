@@ -16,14 +16,14 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
 
-        <Label Content="Build:" HorizontalAlignment="Left" Margin="10,15,0,0" VerticalAlignment="Top" Height="35" Width="83" Padding="0" VerticalContentAlignment="Center" FontSize="13"/>
+        <Label Content="Built:" HorizontalAlignment="Left" Margin="10,15,0,0" VerticalAlignment="Top" Height="35" Width="83" Padding="0" VerticalContentAlignment="Center" FontSize="13"/>
         <TextBox x:Name="tb_build" HorizontalAlignment="Left" Height="35" Margin="98,15,0,0" VerticalAlignment="Top" Width="333" MaxLines="1"/>
         <TextBox x:Name="tb_downloadlink" HorizontalAlignment="Left" Height="35" Margin="98,95,0,0" VerticalAlignment="Top" Width="535" MaxLines="1"/>
         <ComboBox x:Name="cb_versions" HorizontalAlignment="Left" Margin="436,15,0,0" VerticalAlignment="Top" Width="197" Height="35"/>
-        <Button x:Name="btn_save" Content="Speichern" HorizontalAlignment="Left" Margin="516,135,0,0" VerticalAlignment="Top" Width="117" Height="36" />
-        <Label x:Name="lbl_download" Content="Download:" HorizontalAlignment="Left" Margin="10,95,0,0" VerticalAlignment="Top" Width="83" Height="35" VerticalContentAlignment="Center" Padding="0,-1,0,0" FontSize="13"/>
+        <Button x:Name="btn_save" Content="Guardar" HorizontalAlignment="Left" Margin="516,135,0,0" VerticalAlignment="Top" Width="117" Height="36" />
+        <Label x:Name="lbl_download" Content="Descargar:" HorizontalAlignment="Left" Margin="10,95,0,0" VerticalAlignment="Top" Width="83" Height="35" VerticalContentAlignment="Center" Padding="0,-1,0,0" FontSize="13"/>
         <TextBox x:Name="tb_time" HorizontalAlignment="Left" Height="35" Margin="98,55,0,0" VerticalAlignment="Top" Width="535" MaxLines="1"/>
-        <Label Content="Zeit:" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" Height="35" Width="83" Padding="0" VerticalContentAlignment="Center" FontSize="13"/>
+        <Label Content="Fase:" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" Height="35" Width="83" Padding="0" VerticalContentAlignment="Center" FontSize="13"/>
 
     </Grid>
 </Controls:MetroWindow>

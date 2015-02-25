@@ -18,15 +18,15 @@
     </Window.Resources>
 
     <Grid>
-        <Button x:Name="btn_add" Content="Neu" HorizontalAlignment="Right" Margin="0,0,524,10" VerticalAlignment="Bottom" Width="210" Height="30"/>
+        <Button x:Name="btn_add" Content="Nuevo" HorizontalAlignment="Right" Margin="0,0,524,10" VerticalAlignment="Bottom" Width="210" Height="30"/>
         <TextBox x:Name="tb_description" Margin="0,76,214,153" Width="520" AcceptsReturn="True" HorizontalAlignment="Right" IsReadOnly="True" TextWrapping="Wrap" VerticalContentAlignment="Top" VerticalScrollBarVisibility="Auto" />
         <Label x:Name="lbl_name" HorizontalAlignment="Right" Height="30" Margin="0,10,214,0"  VerticalAlignment="Top" Width="471" FontSize="14" Padding="5,0" VerticalContentAlignment="Center"/>
-        <Button x:Name="btn_edit" Content="Bearbeiten" HorizontalAlignment="Right" Margin="0,0,267,10" VerticalAlignment="Bottom" Width="210" Height="30"/>
-        <Button x:Name="btn_delete" Content="Entfernen" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="210" Height="30"/>
-        <Label Content="Name:" HorizontalAlignment="Right" Margin="0,10,690,0" VerticalAlignment="Top"/>
-        <Label Content="Description:" HorizontalAlignment="Right" Margin="0,45,298,0" VerticalAlignment="Top" Width="78"/>
+        <Button x:Name="btn_edit" Content="Editar" HorizontalAlignment="Right" Margin="0,0,267,10" VerticalAlignment="Bottom" Width="210" Height="30"/>
+        <Button x:Name="btn_delete" Content="Eliminar" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="210" Height="30"/>
+        <Label Content="Nombre:" HorizontalAlignment="Right" Margin="0,10,690,0" VerticalAlignment="Top"/>
+        <Label Content="Descripción:" HorizontalAlignment="Right" Margin="0,45,298,0" VerticalAlignment="Top" Width="78"/>
         <ComboBox x:Name="cb_descriptions" DisplayMemberPath="id" HorizontalAlignment="Right" Margin="0,45,214,0" VerticalAlignment="Top" Width="79"/>
-        <Label Content="author:" HorizontalAlignment="Right" Margin="0,45,690,0" VerticalAlignment="Top" Width="44"/>
+        <Label Content="autor:" HorizontalAlignment="Right" Margin="0,45,690,0" VerticalAlignment="Top" Width="44"/>
         <ListView x:Name="lb_mods" Margin="10,10,739,10" BorderThickness="0">
             <ListView.View>
                 <!--<GridView ColumnHeaderContainerStyle="{StaticResource myHeaderStyle}" AllowsColumnReorder="False">
@@ -37,7 +37,7 @@
                 </GridView>
             </ListView.View>
         </ListView>
-        <Label Content="Type:" HorizontalAlignment="Right" Margin="0,0,284,45" VerticalAlignment="Bottom" Height="31" RenderTransformOrigin="1.079,0.516"/>
+        <Label Content="Tipo:" HorizontalAlignment="Right" Margin="0,0,284,45" VerticalAlignment="Bottom" Height="31" RenderTransformOrigin="1.079,0.516"/>
         <Label x:Name="lbl_type" HorizontalAlignment="Right" Height="31" Margin="0,0,10,45"  VerticalAlignment="Bottom" Width="269"/>
         <Label Content="Website:" HorizontalAlignment="Right" Margin="0,0,669,81" VerticalAlignment="Bottom" Width="65" Height="31"/>
         <Label x:Name="lbl_website" HorizontalAlignment="Right" Height="31" Margin="0,0,10,117"  VerticalAlignment="Bottom" Width="654" />
@@ -61,7 +61,7 @@
                 </Style>
             </ListBox.ItemContainerStyle>
         </ListBox>
-        <Label Content="Versionen:" HorizontalAlignment="Right" Margin="0,4,10,0" VerticalAlignment="Top" Width="199" HorizontalContentAlignment="Center" Foreground="{StaticResource AccentColorBrush}" FontSize="18" Height="35"/>
+        <Label Content="Version" HorizontalAlignment="Right" Margin="0,4,10,0" VerticalAlignment="Top" Width="199" HorizontalContentAlignment="Center" Foreground="{StaticResource AccentColorBrush}" FontSize="18" Height="35"/>
         <Label x:Name="lbl_authors" HorizontalAlignment="Right" Height="27" Margin="0,44,383,0"  VerticalAlignment="Top" Width="302" FontSize="14" Padding="5,0" VerticalContentAlignment="Center" RenderTransformOrigin="0.5,0.5" />
         <Label Content="Video:" HorizontalAlignment="Right" Margin="0,0,669,117" VerticalAlignment="Bottom" Width="65" Height="31"/>
         <Label x:Name="lbl_video" HorizontalAlignment="Right" Height="31" Margin="0,0,10,81"  VerticalAlignment="Bottom" Width="654"/>
