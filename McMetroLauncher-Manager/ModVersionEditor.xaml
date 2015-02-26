@@ -19,13 +19,13 @@
         <ComboBox x:Name="cb_extension" HorizontalAlignment="Left" Margin="112,332,0,0" VerticalAlignment="Top" Width="393" Height="32" />
         <ComboBox x:Name="cb_versions" HorizontalAlignment="Left" Margin="112,10,0,0" VerticalAlignment="Top" Width="393" Height="35"/>
         <ListBox x:Name="lb_depedencies" HorizontalAlignment="Left" Margin="112,50,0,0" VerticalAlignment="Top" Width="393" Height="196"/>
-        <Button x:Name="btn_save" Content="Speichern" HorizontalAlignment="Left" Margin="388,371,0,0" VerticalAlignment="Top" Width="117" Height="36" />
+        <Button x:Name="btn_save" Content="Guardar" HorizontalAlignment="Left" Margin="388,371,0,0" VerticalAlignment="Top" Width="117" Height="36" />
         <Label x:Name="lbl_download" Content="Download Link:" HorizontalAlignment="Left" Margin="10,292,0,0" VerticalAlignment="Top" Width="97" Height="35" VerticalContentAlignment="Center" Padding="0,-1,0,0" FontSize="13"/>
         <Label Content="Extension:" HorizontalAlignment="Left" Margin="10,329,0,0" VerticalAlignment="Top" Width="97" Height="35" VerticalContentAlignment="Center" Padding="0,-1,0,0" FontSize="13"/>
-        <Label Content="Version:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="35" Width="97" Padding="0" VerticalContentAlignment="Center" FontSize="13"/>
-        <Label Content="Abhängigkeiten:" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Height="35" Width="97" Padding="0" VerticalContentAlignment="Center" FontSize="13"/>
-        <Button x:Name="btn_add_dependecies" Content="Hinzufügen" HorizontalAlignment="Left" Margin="426,252,0,0" VerticalAlignment="Top" Width="79" Height="35" />
+        <Label Content="Versión:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="35" Width="97" Padding="0" VerticalContentAlignment="Center" FontSize="13"/>
+        <Label Content="Dependencias:" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Height="35" Width="97" Padding="0" VerticalContentAlignment="Center" FontSize="13"/>
+        <Button x:Name="btn_add_dependecies" Content="Añadir" HorizontalAlignment="Left" Margin="426,252,0,0" VerticalAlignment="Top" Width="79" Height="35" />
         <ComboBox x:Name="cb_dependencies" HorizontalAlignment="Left" Margin="194,252,0,0" VerticalAlignment="Top" Width="227" Height="35"/>
-        <Button x:Name="btn_delete_dependecies" Content="Entfernen" HorizontalAlignment="Left" Margin="112,252,0,0" VerticalAlignment="Top" Width="77" Height="35" RenderTransformOrigin="0.727,0.571" />
+        <Button x:Name="btn_delete_dependecies" Content="Quitar" HorizontalAlignment="Left" Margin="112,252,0,0" VerticalAlignment="Top" Width="77" Height="35" RenderTransformOrigin="0.727,0.571" />
     </Grid>
 </Controls:MetroWindow>

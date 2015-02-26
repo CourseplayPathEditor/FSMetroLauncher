@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<PropertyGroup>
 		<!-- Select a Product Configuration -->
 		<InstallShieldProductConfiguration>Express</InstallShieldProductConfiguration>
@@ -32,10 +32,6 @@
 		<ProjectReference Include="..\MinecraftLauncher\McMetroLauncher.vbproj">
 			<Name>McMetroLauncher</Name>
 			<Project>{D9B5CFB9-BB76-4842-9D76-F55AFEDC4EB8}</Project>
-		</ProjectReference>
-		<ProjectReference Include="..\McMetroLauncher-Manager\McMetroLauncher-Manager.vbproj">
-			<Name>McMetroLauncher-Manager</Name>
-			<Project>{78764115-3EBE-4CBC-91BF-B3DE69EB31E3}</Project>
 		</ProjectReference>
 	</ItemGroup>
 </Project>
